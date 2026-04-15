@@ -12,9 +12,9 @@ const __filename = fileURLToPath(import.meta.url);
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["6282113821188","6285166917410"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
+global.owner = ["6283856529845","6282343648808"] // ['628','628'] 2 owner atau lebih
+global.author = 'Faizz'
+global.botname = 'Faizz Bot'
 global.packname = 'Bot WhatsApp'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
@@ -35,10 +35,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/DPUC3uuqYZI9FNLdgtMp4n?mode=gi_t',
-	ch: '120363250409960161@newsletter',
+	yt: 'kosong',
+	gh: 'kosong',
+	gc: 'kosong',
+	ch: '@newsletter',
 }
 
 global.limit = {
@@ -55,7 +55,7 @@ global.money = {
 
 global.mess = {
 	key: "Apikey limit! Silahkan Upgrade: https://naze.biz.id",
-	owner: "Khusus Owner!",
+	owner: "Khusus Faizz ganteng!",
 	admin: "Khusus Admin!",
 	botAdmin: "Bot harus Admin!",
 	onWa: "Nomor tersebut tidak terdaftar di WhatsApp!",
